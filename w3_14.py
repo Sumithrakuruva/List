@@ -1,0 +1,19 @@
+# l=[7,8,120,25,44,20,27]
+# i=0
+# c=[]
+# while i<len(l):
+#     if l[i]%2!=0:
+#         c.append(l[i])
+#     i=i+1
+# print(c)
+        
+        
+        
+# l=[2,3,4,5,6]
+# i=1
+# c=[]
+# while i<=len(l):
+#     c.append((i+1)**2)
+#     i=i+1
+# print(c)
+    
